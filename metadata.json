@@ -1,0 +1,6 @@
+{
+  "name": "AegisChain Cybersecurity Protocol",
+  "description": "Enterprise blockchain cybersecurity platform featuring low-latency BFT consensus, zero-knowledge verification, smart contract auditing, decentralized identity (DID), cross-chain bridge, and validator slashing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
